@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p15404-e287092-cmstg.adobeaemcloud.com/bin/franklin.delivery/jckautzmann/jck3/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/jckautzmann/jck3/main"
     type: "markup"
     suffix: ".html"
